@@ -25,7 +25,7 @@
 
 ## 游戏架构
 
-![bnb](C:\Users\giuem\Documents\泡泡堂\doc\pic\bnb.png)
+![bnb](images\bnb.png)
 
 ### 界面
 
