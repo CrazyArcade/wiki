@@ -25,7 +25,7 @@
 
 ## 游戏架构
 
-![bnb](images\bnb.png)
+![bnb](images/bnb.png)
 
 ### 界面
 
